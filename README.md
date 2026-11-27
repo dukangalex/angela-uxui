@@ -1,4 +1,4 @@
-# angela-uxui · Angela UX/UI 组件库
+# angela-uxui（倕） · Angela UX/UI 组件库
 
 自有维护的交互组件库：480 个零依赖的 HTML/CSS/JS 交互组件，编号 001–480。
 
